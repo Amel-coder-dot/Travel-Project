@@ -70,6 +70,10 @@ body {
   padding: 16px;
 }
 
+.pinterest-photos {
+  margin: 30px 0;
+}
+
 section {
   max-width: 100%;
   margin: 0 auto;
@@ -245,7 +249,7 @@ footer a {
     display: none;
   }
 
-  main iframe {
+  .secondary iframe {
     display: none;
   }
 }
